@@ -1,0 +1,41 @@
+{
+    "_id": {
+        "$oid": "5f84d4daab157e23e4adb6d0"
+    },
+    "id-U": "10",
+    "nombre": "ana",
+    "apellido": "conda",
+    "correo": "aconda@gmail.com",
+    "alias": "aco"
+},
+{
+    "_id": {
+        "$oid": "5f84d4daab157e23e4adb6d1"
+    },
+    "id-U": "11",
+    "nombre": "elva",
+    "apellido": "zurita",
+    "correo": "ezurita@gmail.com",
+    "alias": "ezu"
+},
+{
+    "_id": {
+        "$oid": "5f84d4daab157e23e4adb6d2"
+    },
+    "id-U": "12",
+    "nombre": "armando",
+    "apellido": "guerra",
+    "correo": "aguerra@gmail.com",
+    "alias": "agu"
+},
+{
+    "_id": {
+        "$oid": "5f84d4daab157e23e4adb6d3"
+    },
+    "id-U": "13",
+    "nombre": "elena",
+    "apellido": "nito",
+    "correo": "enito@gmail.com",
+    "alias": "eni"
+}
+
